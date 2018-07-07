@@ -40,6 +40,7 @@ public class Ventana extends JFrame {
         setLayout(null);
         setVisible(true);
         setLocationRelativeTo(null);
+        setTitle("IG - JU - JE");
         
         bJugar = new JButton("Jugar");
         bSalir = new JButton("Salir");
